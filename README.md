@@ -15,3 +15,5 @@ Such as :
 `react jsx`  `vue vuex` or `electron`
 
 If you mention that, we can use some `node.js` and `mangoDB`.
+
+Don't forget ES6 TS etc.
