@@ -17,3 +17,5 @@ Such as :
 If you mention that, we can use some `node.js` and `mangoDB`.
 
 Don't forget ES6 TS etc.
+
+·11.11 其实就是个坑·
